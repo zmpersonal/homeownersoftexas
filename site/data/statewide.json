@@ -1,95 +1,36 @@
 {
-  "generatedAt": "2026-09-07T19:37:44.632Z",
-  "status": "ok",
+  "generatedAt": "2026-09-06T19:30:00.000Z",
+  "status": "seed",
   "insurance": {
     "year": 2025,
     "preliminary": true,
     "averagePremium": 3506,
     "activePolicies": 8233096,
     "directWrittenPremium": 19750000000,
-    "companies": 160,
+    "companies": 157,
     "groups": 81,
     "totalInsuredValue": 2404731301000,
-    "filedRate30DayPct": 0,
+    "filedRate30DayPct": -0.8,
     "filedRate30DayPeriod": "August 2026",
-    "filedRate90DayPct": 0,
+    "filedRate90DayPct": -1.8,
     "filedRate90DayPeriod": "June–August 2026",
     "premiumHistory": [
-      {
-        "year": 2015,
-        "value": 1782
-      },
-      {
-        "year": 2016,
-        "value": 1791
-      },
-      {
-        "year": 2017,
-        "value": 1860
-      },
-      {
-        "year": 2018,
-        "value": 1916
-      },
-      {
-        "year": 2019,
-        "value": 1961
-      },
-      {
-        "year": 2020,
-        "value": 1987
-      },
-      {
-        "year": 2021,
-        "value": 2124
-      },
-      {
-        "year": 2022,
-        "value": 2374
-      },
-      {
-        "year": 2023,
-        "value": 2800
-      },
-      {
-        "year": 2024,
-        "value": 3291
-      },
-      {
-        "year": 2025,
-        "value": 3506
-      }
+      {"year":2015,"value":1782},{"year":2016,"value":1791},{"year":2017,"value":1860},{"year":2018,"value":1916},{"year":2019,"value":1961},{"year":2020,"value":1987},{"year":2021,"value":2124},{"year":2022,"value":2374},{"year":2023,"value":2800},{"year":2024,"value":3291},{"year":2025,"value":3506}
     ],
     "source": "https://www.tdi.texas.gov/general/texas-homeowners-insurance-market-overview.html",
     "sourceLabel": "Texas Department of Insurance"
   },
   "complaints": {
-    "records": 289516,
+    "records": 289022,
     "datasetId": "jjc8-mxkg",
     "source": "https://data.texas.gov/d/jjc8-mxkg",
     "sourceLabel": "Texas Department of Insurance / Texas Open Data"
   },
   "tdlr": {
-    "records": 983494,
+    "records": null,
     "datasetId": "7358-krk7",
     "source": "https://data.texas.gov/d/7358-krk7",
     "sourceLabel": "Texas Department of Licensing and Regulation / Texas Open Data"
   },
-  "sourceHealth": [
-    {
-      "source": "TDI market overview",
-      "ok": true,
-      "checkedAt": "2026-09-07T19:37:44.632Z"
-    },
-    {
-      "source": "TDI complaint dataset",
-      "ok": true,
-      "checkedAt": "2026-09-07T19:37:44.632Z"
-    },
-    {
-      "source": "TDLR license dataset",
-      "ok": true,
-      "checkedAt": "2026-09-07T19:37:44.632Z"
-    }
-  ]
+  "sourceHealth": []
 }

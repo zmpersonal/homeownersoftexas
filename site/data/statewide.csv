@@ -1,0 +1,6 @@
+metric,value,period,source
+average_annual_premium_usd,3506,2025 preliminary,Texas Department of Insurance
+active_policies,8233096,2025,Texas Department of Insurance
+direct_written_premium_usd,19750000000,2025,Texas Department of Insurance
+insurance_companies,157,2025,Texas Department of Insurance
+insurance_complaint_records,289022,current snapshot,Texas Open Data

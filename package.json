@@ -1,0 +1,13 @@
+{
+  "name": "homeowners-of-texas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/refresh-data.mjs",
+    "build": "node scripts/build.mjs",
+    "prepare": "npm run build",
+    "dev": "python3 -m http.server 8788 -d site",
+    "deploy": "npx wrangler deploy"
+  }
+}

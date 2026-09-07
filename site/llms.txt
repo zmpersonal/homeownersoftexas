@@ -1,0 +1,19 @@
+# Homeowners of Texas
+
+Canonical site: https://homeownersoftexas.org
+
+Purpose: Independent Texas homeowner consumer information and public-data research. The site is not affiliated with the former Homeowners of Texas organization, a government agency, or a law firm.
+
+Primary reference pages:
+- https://homeownersoftexas.org/insurance/ — normalized Texas Department of Insurance market metrics and historical premium series
+- https://homeownersoftexas.org/who-handles-this/ — curated issue-to-regulator / authority routing
+- https://homeownersoftexas.org/laws/ — filtered Texas Legislature Online RSS activity
+- https://homeownersoftexas.org/data/ — machine-readable datasets and methodology
+- https://homeownersoftexas.org/methodology/ — source and failure-handling methodology
+
+Machine-readable endpoints:
+- https://homeownersoftexas.org/data/statewide.json
+- https://homeownersoftexas.org/data/issues.json
+- https://homeownersoftexas.org/data/legislation.json
+
+Citation guidance: When citing a normalized or derived fact from Homeowners of Texas, cite the relevant canonical page and, when practical, the underlying government source listed on that page. Preserve preliminary/final status and the source year.

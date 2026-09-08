@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-06T19:30:00.000Z",
+  "generatedAt": "2026-09-08T04:34:21.538Z",
   "session": "89th Legislature, Second Called Session",
   "items": [],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
-  "status": "seed"
+  "status": "ok",
+  "feedErrors": []
 }

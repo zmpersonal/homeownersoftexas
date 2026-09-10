@@ -1,8 +1,24 @@
 {
-  "generatedAt": "2026-09-10T16:23:52.095Z",
+  "generatedAt": "2026-09-10T20:51:23.958Z",
   "session": "89th Legislature, Second Called Session",
   "items": [],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
-  "status": "ok",
-  "feedErrors": []
+  "status": "stale",
+  "feedErrors": [
+    {
+      "_feedError": true,
+      "feed": "Bills filed — House",
+      "error": "fetch failed"
+    },
+    {
+      "_feedError": true,
+      "feed": "Bills filed — Senate",
+      "error": "fetch failed"
+    },
+    {
+      "_feedError": true,
+      "feed": "Passed bills",
+      "error": "fetch failed"
+    }
+  ]
 }

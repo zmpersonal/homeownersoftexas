@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T20:39:03.536Z",
-  "status": "ok",
+  "generatedAt": "2026-09-20T04:53:10.223Z",
+  "status": "partial",
   "insurance": {
     "year": 2025,
     "preliminary": true,
@@ -70,7 +70,7 @@
     "sourceLabel": "Texas Department of Insurance / Texas Open Data"
   },
   "tdlr": {
-    "records": 983494,
+    "records": 1007729,
     "datasetId": "7358-krk7",
     "source": "https://data.texas.gov/d/7358-krk7",
     "sourceLabel": "Texas Department of Licensing and Regulation / Texas Open Data"
@@ -78,18 +78,19 @@
   "sourceHealth": [
     {
       "source": "TDI market overview",
-      "ok": true,
-      "checkedAt": "2026-09-19T20:39:03.536Z"
+      "ok": false,
+      "error": "fetch failed",
+      "checkedAt": "2026-09-20T04:53:10.223Z"
     },
     {
       "source": "TDI complaint dataset",
       "ok": true,
-      "checkedAt": "2026-09-19T20:39:03.536Z"
+      "checkedAt": "2026-09-20T04:53:10.223Z"
     },
     {
       "source": "TDLR license dataset",
       "ok": true,
-      "checkedAt": "2026-09-19T20:39:03.536Z"
+      "checkedAt": "2026-09-20T04:53:10.223Z"
     }
   ]
 }

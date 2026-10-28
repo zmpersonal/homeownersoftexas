@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:40:25.121Z",
+  "generatedAt": "2026-10-28T12:52:24.871Z",
   "status": "ok",
   "insurance": {
     "year": 2025,
@@ -79,17 +79,17 @@
     {
       "source": "TDI market overview",
       "ok": true,
-      "checkedAt": "2026-10-28T05:40:25.121Z"
+      "checkedAt": "2026-10-28T12:52:24.871Z"
     },
     {
       "source": "TDI complaint dataset",
       "ok": true,
-      "checkedAt": "2026-10-28T05:40:25.121Z"
+      "checkedAt": "2026-10-28T12:52:24.871Z"
     },
     {
       "source": "TDLR license dataset",
       "ok": true,
-      "checkedAt": "2026-10-28T05:40:25.121Z"
+      "checkedAt": "2026-10-28T12:52:24.871Z"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-10T07:15:30.380Z",
+  "generatedAt": "2026-11-10T19:42:49.594Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [],
+  "items": [
+    {
+      "title": "HB 1014 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01014I.htm",
+      "description": "Relating to the disclosure of information regarding a transfer on death deed in certain residential real property transactions.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1025 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01025I.htm",
+      "description": "Relating to the qualifications of a trustee authorized or appointed to exercise the power of sale of real property under a security instrument.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1037 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01037I.htm",
+      "description": "Relating to the authority of a municipality to adopt, increase or decrease the rate of, or repeal an additional sales and use tax for property tax relief by ordinance or resolution of the governing body of the municipality.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1053 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01053I.htm",
+      "description": "Relating to a memorandum of understanding between the Health and Human Services Commission and the Texas Department of Insurance to assist individuals disenrolled from Medicaid with applying for and obtaining other health benefits coverage.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "SB 326 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/textNotAvailable.html",
+      "description": "Relating to the establishment of the Texas automobile insurance public option.",
+      "pubDate": "",
+      "feed": "Bills filed — Senate"
+    }
+  ],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

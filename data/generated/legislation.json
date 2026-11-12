@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-11-12T00:41:40.750Z",
+  "generatedAt": "2026-11-12T15:12:23.884Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [],
+  "items": [
+    {
+      "title": "HB 1086 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01086I.htm",
+      "description": "Relating to prohibiting the provision or use of public money to fund certain legal services for aliens unlawfully present in the United States; providing a civil penalty.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1104 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01104I.htm",
+      "description": "Relating to the authority of the chief appraiser of certain appraisal districts to consider a property to be a comparable property when using the market data comparison method of appraisal to determine the market value of a residence homestead for ad valorem tax purposes.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1108 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01108I.htm",
+      "description": "Relating to mandatory sales price disclosure in commercial and industrial real property sales; providing a civil penalty.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1112 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01112I.htm",
+      "description": "Relating to the approval or disapproval of certain construction-related permits and authorizations by a political subdivision.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1115 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01115I.htm",
+      "description": "Relating to the effects of unresponsive insureds for a personal automobile insurance policy.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1116 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01116I.htm",
+      "description": "Relating to recoverable depreciation for property damage claims under an insurance policy.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1117 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01117I.htm",
+      "description": "Relating to binding arbitration provisions under a property and casualty insurance contract.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    },
+    {
+      "title": "HB 1118 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01118I.htm",
+      "description": "Relating to requirements for commercial and residential property insurance policies regarding coverage for a structure other than the primary structure covered under the policy.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    }
+  ],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

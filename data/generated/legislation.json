@@ -1,7 +1,22 @@
 {
-  "generatedAt": "2026-11-13T06:42:46.672Z",
+  "generatedAt": "2026-11-13T19:40:15.700Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [],
+  "items": [
+    {
+      "title": "SB 355 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00355I.htm",
+      "description": "Relating to establishing a highway construction mitigation program for certain highway construction projects.",
+      "pubDate": "",
+      "feed": "Bills filed — Senate"
+    },
+    {
+      "title": "SB 371 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00371I.htm",
+      "description": "Relating to the use of state money for intercity passenger rail operated by a private entity and to the construction of certain intercity passenger rail.",
+      "pubDate": "",
+      "feed": "Bills filed — Senate"
+    }
+  ],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

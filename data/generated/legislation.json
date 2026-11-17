@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-11-16T21:59:45.228Z",
+  "generatedAt": "2026-11-17T07:53:15.464Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [
-    {
-      "title": "HB 1161 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01161I.htm",
-      "description": "Relating to the creation of tenant legal services offices by local governments to assist low-income residential tenants in eviction cases and in cases involving discrimination based on the tenants' disabilities.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "HB 1177 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01177I.htm",
-      "description": "Relating to the authority of a municipality or county to impose a supplemental local sales and use tax to provide additional revenue for property tax relief and general governmental purposes if the tax is approved by the voters; authorizing the imposition of a tax.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "HB 1182 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01182I.htm",
-      "description": "Relating to the disclosure of depreciation schedules for property and casualty insurance policies.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "SB 396 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00396I.htm",
-      "description": "Relating to the qualifications of a trustee authorized or appointed to exercise the power of sale of real property under a security instrument.",
-      "pubDate": "",
-      "feed": "Bills filed — Senate"
-    },
-    {
-      "title": "SB 397 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00397I.htm",
-      "description": "Relating to the regulation of stormwater management by certain counties.",
-      "pubDate": "",
-      "feed": "Bills filed — Senate"
-    }
-  ],
+  "items": [],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

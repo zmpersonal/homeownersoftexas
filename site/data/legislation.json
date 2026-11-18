@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-11-17T20:53:44.124Z",
+  "generatedAt": "2026-11-18T07:26:06.728Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [
-    {
-      "title": "HB 1198 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01198I.htm",
-      "description": "Relating to a temporary exemption from ad valorem taxation of the appraised value of an improvement to a residence homestead that is completely destroyed by a flood or windstorm.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "HB 1199 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01199I.htm",
-      "description": "Relating to the regulation of elevator mechanics, elevator apprentices, and contractors; requiring an occupational registration.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "SB 402 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00402I.htm",
-      "description": "Relating to the requirements for the operational plan for certain general residential operations licensed by the Health and Human Services Commission.",
-      "pubDate": "",
-      "feed": "Bills filed — Senate"
-    }
-  ],
+  "items": [],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

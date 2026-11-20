@@ -1,22 +1,7 @@
 {
-  "generatedAt": "2026-11-19T20:35:03.148Z",
+  "generatedAt": "2026-11-20T07:12:30.473Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [
-    {
-      "title": "HB 1246 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01246I.htm",
-      "description": "Relating to the authority to lease real property or an improvement on the Austin State Hospital campus for less than market rate and the lease of certain state property by the Health and Human Services Commission to Travis County.",
-      "pubDate": "",
-      "feed": "Bills filed — House"
-    },
-    {
-      "title": "SB 437 Introduced",
-      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00437I.htm",
-      "description": "Relating to providing for the elimination of toll roads and projects in this state, including toll cessation by toll project entities and a prohibition on new toll project construction and on the conversion of nontolled lanes.",
-      "pubDate": "",
-      "feed": "Bills filed — Senate"
-    }
-  ],
+  "items": [],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []

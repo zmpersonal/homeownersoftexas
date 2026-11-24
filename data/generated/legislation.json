@@ -1,7 +1,15 @@
 {
-  "generatedAt": "2026-11-24T09:52:03.520Z",
+  "generatedAt": "2026-11-24T22:24:43.672Z",
   "session": "89th Legislature, Second Called Session",
-  "items": [],
+  "items": [
+    {
+      "title": "HB 1285 Introduced",
+      "link": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB01285I.htm",
+      "description": "Relating to seller's disclosures regarding flooding and other water-related issues with respect to residential real property.",
+      "pubDate": "",
+      "feed": "Bills filed — House"
+    }
+  ],
   "source": "https://capitol.texas.gov/MyTLO/RSS/RSSFeeds.aspx",
   "status": "ok",
   "feedErrors": []
